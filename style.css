@@ -3,5 +3,9 @@ body{
 }
 #titulo{
 color:aliceblue;
-text-align: ;    
+text-align:center;
+font-size:25px;
+background-color: deeppink;
+height: 45px;
+margin:0; 
 }
